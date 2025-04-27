@@ -98,7 +98,6 @@ The application follows a simple client-server architecture:
     cd backend
     uvicorn main:app --host 0.0.0.0 --port 8000 --reload
     ```
-    *(Keep this terminal running)*
 
 2.  **Start the Frontend (Streamlit):**
     Open a *new* terminal in the project root directory.
