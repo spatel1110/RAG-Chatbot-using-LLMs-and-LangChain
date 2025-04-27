@@ -1,4 +1,4 @@
-# RAG Chatbot with Ollama, LangChain, FastAPI & Streamlit
+# RAG Chatbot with Ollama LangChain FastAPI & Streamlit
 
 This project implements a Retrieval-Augmented Generation (RAG) chatbot that runs locally using open-source LLMs managed by Ollama. It features a Python backend built with FastAPI and LangChain, and a user-friendly frontend using Streamlit.
 
